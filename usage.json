@@ -1,8 +1,8 @@
 {
-  "weekly_used_pct": 35,
-  "weekly_remaining_pct": 65,
+  "weekly_used_pct": 37,
+  "weekly_remaining_pct": 63,
   "reset_time": "2026-12-02T10:16:00+08:00",
   "additional_tokens_pct_used": 2,
   "additional_tokens_left": "983M",
-  "updated_at": "2026-11-28T03:53:26+08:00"
+  "updated_at": "2026-11-28T06:53:26+08:00"
 }
